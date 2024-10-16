@@ -1,11 +1,11 @@
 package com.parcial.parcial2;
 
 public class Dispositivo {
-    protected String id;
-    protected String cpu;
-    protected String ram;
-    protected String almacenamiento;
-    protected String os;
+    private String id;
+    private String cpu;
+    private String ram;
+    private String almacenamiento;
+    private String os;
     private String tipo;
 
     public String getId() {
